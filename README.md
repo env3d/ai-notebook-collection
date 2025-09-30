@@ -1,1 +1,1 @@
-Fine-tuning a small Qwen2.5 model
+A collection of notebooks to run on Google Colab
